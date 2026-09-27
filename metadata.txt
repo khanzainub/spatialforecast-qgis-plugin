@@ -1,0 +1,14 @@
+[general]
+name=SpatialForecast
+description=Spatial raster time-series forecasting with 8 curated models, automatic grid harmonisation, validation diagnostics and publication-quality figures.
+about=SpatialForecast applies forecasting independently across raster pixels or aggregated spatial blocks. It harmonises mismatched raster grids to a common aligned reference before modelling and produces forecast rasters, diagnostics, statistics and publication-ready graphs. Developed by Zainab Khan and Siddhartha Khare, Geospatial Engineering Group, Department of Civil Engineering, Indian Institute of Technology Roorkee.
+version=1.0.1
+qgisMinimumVersion=3.34
+author=Zainab Khan, Siddhartha Khare
+email=khanzainub@gmail.com, siddhartha.khare@ce.iitr.ac.in
+category=Raster
+hasProcessingProvider=yes
+experimental=True
+homepage=https://github.com/khanzainub/spatialforecast-qgis-plugin
+repository=https://github.com/khanzainub/spatialforecast-qgis-plugin
+tracker=https://github.com/khanzainub/spatialforecast-qgis-plugin/issues
